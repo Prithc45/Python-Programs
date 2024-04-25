@@ -1,0 +1,8 @@
+c=input("Enter first number:")
+d=input("Enter second number:")
+a=int(c)
+b=int(d)
+print("The value of",a,"+",b,"is=",a+b)
+print("The value of",a,"-",b,"is=",a-b)
+print("The value of",a,"*",b,"is=",a*b) 
+print("The value of",a,"/",b,"is=",a/b)
